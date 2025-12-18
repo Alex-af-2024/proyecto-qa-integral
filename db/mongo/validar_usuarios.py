@@ -4,8 +4,8 @@ from pymongo import MongoClient
 client = MongoClient("mongodb://localhost:27017")
 
 # Base de datos y colección
-db = client["local"]
-collection = db["usuarios_test"]
+db = client["qa_testing"] 
+collection = db["test_usuarios"]
 
 print("🔍 Iniciando validaciones MongoDB...\n")
 
@@ -16,7 +16,5 @@ if len(active_users) > 0:
     print(f"✔ Existen usuarios activos: {len(active_users)} encontrado(s)")
 else:
     print("⚠ No existen usuarios activos")
-
-
 
 print("\n✅ Validación MongoDB finalizada")
