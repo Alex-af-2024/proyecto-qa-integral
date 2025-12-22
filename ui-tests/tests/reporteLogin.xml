@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuites name="pytest tests">
+    <testsuite name="pytest" errors="0" failures="0" skipped="0" tests="1" time="23.440"
+        timestamp="2025-12-22T11:54:29.118419-03:00" hostname="SCL076PCAD005">
+        <testcase classname="test_login_selenium" name="test_login_saucedemo" time="11.555" />
+    </testsuite>
+</testsuites>
