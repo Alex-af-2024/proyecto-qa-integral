@@ -24,7 +24,7 @@ Este repositorio contiene la implementación técnica de un Proyecto QA Integral
 
 Para una revisión detallada de la gestión de Sprints (1 y 2), planificación en Jira/Xray y el análisis de resultados, puedes acceder a:
 
-![Descargar Informe Integral QA(PDF)](/docs/Informe%20integral%20QA.pdf)
+![Descargar Informe Integral QA(PDF)](/docs/Informe_Integral_QA.pdf)
 
 🏗️ Estructura del Proyecto y Capas Probadas
 
